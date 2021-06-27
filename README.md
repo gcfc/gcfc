@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in SpaceX as a hardware test software engineer in the Starlink program! 
 - 🌱 I’m a grad student in MIT doing robotics research! 
-- 📫 How to reach me: Email, LinkedIn, Facebook Messenger, Instagram, WeChat... links in website! 
+- 📫 How to reach me: [Email](mailto:gcfchen@mit.edu), [LinkedIn](http://www.linkedin.com/in/gcfchen), [Facebook Messenger](http://www.facebook.com/gcfchen314), [Instagram](http://www.instagram.com/curious.ch3n), [WeChat](http://www.gcfc.github.io/img/wechat.jpg)... details in website! 
