@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 welcome to my repo! 
 
 <!--
 **gcfc/gcfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# gcfc
+
+- 🔭 I’m currently working in SpaceX as a hardware test software engineer in the Starlink program! 
+- 🌱 I’m a grad student in MIT doing robotics research! 
+- 📫 How to reach me: Email, LinkedIn, Facebook Messenger, Instagram, WeChat...
