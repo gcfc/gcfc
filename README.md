@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in SpaceX as a hardware test software engineer in the Starlink program! 
 - 🌱 I’m a grad student in MIT doing robotics research! 
-- 📫 How to reach me: Email, LinkedIn, Facebook Messenger, Instagram, WeChat...
+- 📫 How to reach me: Email, LinkedIn, Facebook Messenger, Instagram, WeChat... links in website! 
