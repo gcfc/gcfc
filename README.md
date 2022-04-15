@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to my repo! 
+## Hi there 👋 welcome to my GitHub! 
 
 <!--
 **gcfc/gcfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working in SpaceX as a hardware test software engineer in the Starlink program! 
-- 🌱 I’m a grad student in MIT doing robotics and controls research! 
-- 📫 How to reach me: [Email](mailto:gcfchen@mit.edu), [LinkedIn](http://www.linkedin.com/in/gcfchen), [Facebook Messenger](http://www.facebook.com/gcfchen314), [Instagram](http://www.instagram.com/curious.ch3n), [WeChat](https://gcfc.github.io/img/wechat.jpg)... details in [website](https://gcfc.github.io/)! 
+- 🔭 I'm an incoming software engineer in Zoox working on motion planning and controls for autonomous driving 🚗🚗
+- 🌱 I’m currently a grad student in MIT doing robotics and controls research! 
+- 📫 How to reach me: [Email](mailto:gcfchen@mit.edu), [LinkedIn](http://www.linkedin.com/in/gcfchen), [Facebook Messenger](http://www.facebook.com/gcfchen314), [Instagram](http://www.instagram.com/curious.ch3n), [WeChat](https://gcfc.github.io/img/wechat.jpg)... more details in [website](https://gcfc.github.io?s=rm)! 
