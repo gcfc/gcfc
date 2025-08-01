@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a software engineer at Zoox working on motion planning and controls for autonomous driving 🚗🚗
 - 🌱 I spent 5 years at MIT studying mechanical engineering and doing robotics and controls research!
-- 📫 How to reach me: [Email](mailto:gcfchen@mit.edu), [LinkedIn](http://www.linkedin.com/in/gcfchen), [Facebook Messenger](http://www.facebook.com/gcfchen314), [Instagram](http://www.instagram.com/curious.ch3n), [WeChat](https://gcfc.github.io/img/wechat.jpg)... more details in [website](https://gcfc.github.io?s=rm)! 
+- 📫 How to reach me: [Email](mailto:gcfchen314@gmail.com), [LinkedIn](http://www.linkedin.com/in/gcfchen), [Facebook Messenger](http://www.facebook.com/gcfchen314), [Instagram](http://www.instagram.com/curious.ch3n), [WeChat](https://gcfc.github.io/img/wechat.jpg)... more details in [website](https://gcfc.github.io?s=rm)! 
